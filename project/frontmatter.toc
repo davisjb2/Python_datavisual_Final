@@ -1,0 +1,16 @@
+%
+% frontmatter.toc
+%
+% This file is maintained manually to add Table of Contents entries for
+% the frontmatter. (Until I can figure out how to make the regular
+% \tableofcontents command do it!)
+% After running latex command, which updates the thesis.toc file, you need to
+% run my custom script toc.sh to get the frontmatter toc entries into the
+% toc file. Then you can pdflatex to generate a pdf with the correct TOC that
+% includes these entries.
+%
+
+\contentsline {chapter}{Abstract}{iv}
+\contentsline {chapter}{Acknowledgements}{vi}
+\contentsline {chapter}{List of Tables}{vii}
+\contentsline {chapter}{List of Figures}{viii}

@@ -1,0 +1,71 @@
+\documentclass[12pt]{asu}
+%\usepackage[dvips]{graphics}
+%\usepackage[pdftex]{graphicx}
+\usepackage{graphicx}
+%\usepackage[T1]{fontenc}
+\usepackage{setspace}
+\usepackage{caption}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{array}
+\DeclareMathOperator*{\argmin}{arg\,min}
+%\captionsetup[table]{justification=justified,singlelinecheck=false}
+
+\title{Design and Implementation of a Planner Application}
+\degree{MASTER OF SCIENCE}
+\degreeabbrev{M.S.}
+\bachelordegree{B.S., Appalachian State University}
+\department{Computer Science}
+\gradmonth{February}
+\gradyear{2018}
+\author{Jessica Brooke Davis}
+\authorcaps{JESSICA BROOKE DAVIS}
+
+%\widowpenalty10000
+%\clubpenalty10000
+
+\begin{document}
+	\begin{preliminary}
+		\maketitle
+		\makecopyright
+		
+		\tableofcontents
+		
+	\end{preliminary}
+	
+	\newlinestretch{2}
+	
+	
+	\chapter{Introduction}
+	\input{intro} \label{intro}
+	
+	\chapter{Background} 
+	\input{bkgrnd} \label{bkgrnd}
+	
+	\chapter{Related Work} \label{relwork}
+	\input{relwork_intro} \label{relwork_intro}
+	
+	\chapter{Preliminary Findings}
+	\input{prelim} \label{prelim}
+	\section{User Interviews}
+	\input{userinterviews} \label{ui}
+	
+	\chapter{Proposed Future Work}
+	\input{future} \label{future}
+	
+	\newpage
+
+        \newlinestretch{1}
+	\addcontentsline{toc}{chapter}{Bibliography}
+        \bibliographystyle{plain}
+        
+	\bibliography{biblio2}
+	Word Count: 5350
+	
+	\appendix
+	\fontsize{11pt}{26pt}\selectfont
+
+
+	\newpage
+
+\end{document}

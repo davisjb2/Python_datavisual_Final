@@ -1,0 +1,12 @@
+07/31/2016
+Dr. Fenwick
+
+Updated a 2013 LaTeX style for AppState theses. Use the ./build.sh script to
+handle all the building (latex, bibtex, another latex to get references
+correct, a kludge fix for table of contents, and finally pdflatex to generate
+a PDF.
+
+Look at the thesis.tex file to see how to "define" the specific frontmatter
+entries (names, degrees, departments, etc.). 
+
+

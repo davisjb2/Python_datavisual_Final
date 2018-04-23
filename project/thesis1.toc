@@ -1,0 +1,21 @@
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {chapter}{\numberline {2}Background}{2}
+\contentsline {section}{\numberline {2.1}Evaluation Matrix}{2}
+\contentsline {section}{\numberline {2.2}Goal Focused Usability Studies}{3}
+\contentsline {section}{\numberline {2.3}Goal-Oriented Design}{3}
+\contentsline {chapter}{\numberline {3}Related Work}{6}
+\contentsline {chapter}{\numberline {4}Preliminary Findings}{7}
+\contentsline {section}{\numberline {4.1}User Interviews}{8}
+\contentsline {subsection}{\numberline {4.1.1}User Interview No. 1}{8}
+\contentsline {subsection}{\numberline {4.1.2}User Interview No. 2}{11}
+\contentsline {subsection}{\numberline {4.1.3}User Interview No. 3}{13}
+\contentsline {subsection}{\numberline {4.1.4}User Interview No. 4}{15}
+\contentsline {subsection}{\numberline {4.1.5}User Interview No. 5}{17}
+\contentsline {subsection}{\numberline {4.1.6}User Interview No. 6}{19}
+\contentsline {subsection}{\numberline {4.1.7}User Interview No. 7}{20}
+\contentsline {subsection}{\numberline {4.1.8}User Interview No. 8}{23}
+\contentsline {chapter}{\numberline {5}Proposed Future Work}{26}
+\contentsline {section}{\numberline {5.1}Modeling}{27}
+\contentsline {section}{\numberline {5.2}Requirements Definition}{27}
+\contentsline {section}{\numberline {5.3}Design Framework and Refinement}{27}
+\contentsline {chapter}{Bibliography}{28}
